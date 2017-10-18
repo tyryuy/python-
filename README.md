@@ -1,7 +1,7 @@
 # python-tutorial
-キソのキのみつみこみました．
-僕の開発環境は以下の通りです
-version : python 3.5
-OS : windows 7
-Browser : Chrome
-installation : Anaconda
+キソのキのみつみこみました．<br>
+僕の開発環境は以下の通りです<br>
+version : python 3.5<br>
+OS : windows 7<br>
+Browser : Chrome<br>
+installation : Anaconda<br>
